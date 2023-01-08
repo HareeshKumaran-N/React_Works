@@ -1,0 +1,37 @@
+.cardContainer
+{
+    
+    border:1px solid white;
+    padding: 10px 20px  ;
+    background: linear-gradient(90deg, rgba(151, 31, 231, 1), rgba(184, 116, 251, 1), rgba(195, 183, 202, 1));
+}
+
+.userCardList
+{
+    padding:20px;
+ 
+   display: flex;
+   flex-direction: column;
+   /* background-color: rgb(81, 81, 81);   */
+   gap:15px; 
+}
+
+.btn
+{
+    /* padding: 2px; */
+}
+
+.LikedBtn
+{
+    background-color: rgb(250, 109, 109);
+    /* padding: 2px; */
+}
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
